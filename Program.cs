@@ -77,26 +77,29 @@ namespace _2021_draft_scorer
             // This is still messy from debugging the different values.  It should be optimized.
             var dn = doc.DocumentNode;
             var dns = dn.SelectNodes("/html/body/div/div/div/table");
-            //Console.WriteLine(dns.ToString());
-            var attr = dns[1].Attributes;
-            var attrs = attr.ToArray();
-            var style = attr.FirstOrDefault().Value;
-            var ss = style.ToString();
-            bool hasStyle = ss.IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
-            foreach(var node in dns)
+            Console.WriteLine(dns.Count);
+            if (dns.Count > 1)
             {
-                var nodeStyle = node.Attributes.FirstOrDefault().Value.ToString();
-                bool hasTheStyle = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
-                if (hasTheStyle)
+                var attr = dns[1].Attributes;
+                var attrs = attr.ToArray();
+                var style = attr.FirstOrDefault().Value;
+                var ss = style.ToString();
+                bool hasStyle = ss.IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
+                foreach(var node in dns)
                 {
-                    var tr = node.SelectSingleNode("tr");
-                    DraftPick DraftPick = createDraftEntry(tr);
-                    //Separate mock picks from actual picks
-                    DraftPick.actualPick = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("darkslategray", StringComparison.OrdinalIgnoreCase) >= 0;
-                    mdpList.Add(DraftPick);
+                    var nodeStyle = node.Attributes.FirstOrDefault().Value.ToString();
+                    bool hasTheStyle = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
+                    if (hasTheStyle)
+                    {
+                        var tr = node.SelectSingleNode("tr");
+                        DraftPick DraftPick = createDraftEntry(tr);
+                        //Separate mock picks from actual picks
+                        DraftPick.actualPick = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("darkslategray", StringComparison.OrdinalIgnoreCase) >= 0;
+                        mdpList.Add(DraftPick);
+                    }
                 }
+                var hasGradient = dns[1].Attributes.Contains("background-image");
             }
-            var hasGradient = dns[1].Attributes.Contains("background-image");
             return mdpList;
         }
         public static DraftPick createDraftEntry(HtmlNode tableRow)
@@ -290,52 +293,55 @@ namespace _2021_draft_scorer
 
             Dictionary<string, string> fantasyTeams = new Dictionary<string, string>()
             {
-                { "Baylor",	"AJ"},
-                { "Michigan", "AJ"},
-                { "TCU", "AJ"},
-                { "LSU", "Jawad"},
-                { "Clemson", "Jared"},
-                { "Louisville",	"AJ"},
-                { "Oregon", "Ross"},
-                { "Iowa", "Tilo"},
-                { "Alabama", "Tilo"},
-                { "Washington",	"AJ"},
-                { "Florida", "AJ"},
+                { "Wisconsin",	"AJ"},
+                { "Minnesota", "AJ"},
+                { "Auburn", "AJ"},
+                { "Kentucky", "AJ"},
+                { "Washington", "AJ"},
+                { "Miami (FL)",	"AJ"},
+                { "Texas", "AJ"},
+                { "Oklahoma", "AJ"},
+                { "Oklahoma State", "AJ"},
+                { "North Dakota State",	"AJ"},
+                { "Michigan", "Jawad"},
                 { "Penn State",	"Jawad"},
-                { "Georgia", "Jared"},
-                { "Ohio State",	"Jawad"},
-                { "Wisconsin", "AJ"},
-                { "Lenoir–Rhyne", "Ross"},
-                { "Utah", "Ross"},
-                { "Oklahoma", "Ross"},
-                { "Auburn",	"Ross"},
-                { "Notre Dame", "Jared"},
-                { "Arkansas", "AJ"},
-                { "USC", "Tilo"},
-                { "Mississippi State", "Tilo"},
-                { "South Carolina", "Jared"},
-                { "Missouri", "Tilo"},
-                { "Fresno State", "AJ"},
-                { "Houston", "Jawad"},
-                { "Minnesota", "Jared"},
-                { "Utah State", "Tilo"},
-                { "Nebraska", "Jawad"},
-                { "Texas A&M", "Ross"},
-                { "Michigan State", "Tilo"},
-                { "Virginia", "Tilo"},
-                { "Texas Tech", "Tilo"},
-                { "Texas", "Jared"},
-                { "Boise State", "Ross"},
-                { "Colorado", "Jared"},
-                { "Miami (FL)", "Ross"},
-                { "Maryland", "Ross"},
-                { "Temple", "Jared"},
-                { "California", "AJ"},
-                { "Purdue", "Jawad"},
+                { "LSU", "Jared"},
+                { "Ole Miss",	"Jawad"},
+                { "Pitt", "Jawad"},
+                { "TCU", "Jawad"},
+                { "Notre Dame", "Jawad"},
+                { "BYU", "Jawad"},
+                { "Memphis",	"Jawad"},
+                { "Indiana", "Ross"},
                 { "Illinois", "Ross"},
-                { "Arizona State", "Tilo"},
-                { "Tennessee", "Jared"},
-                { "Northwestern", "Jared"}
+                { "Alabama", "Ross"},
+                { "Tennessee", "Ross"},
+                { "USC", "Ross"},
+                { "Florida State", "Ross"},
+                { "West Virginia", "Ross"},
+                { "North Carolina", "Ross"},
+                { "Duke", "Ross"},
+                { "Tulsa", "Ross"},
+                { "Iowa", "Tilo"},
+                { "Ohio State", "Tilo"},
+                { "Florida", "Tilo"},
+                { "Mississippi State", "Tilo"},
+                { "Oregon", "Tilo"},
+                { "NC State", "Tilo"},
+                { "Kansas State", "Tilo"},
+                { "Michigan State", "Tilo"},
+                { "Louisville", "Tilo"},
+                { "Cincinnati", "Tilo"},
+                { "Northwestern", "Jared"},
+                { "Purdue", "Jared"},
+                { "Georgia", "Jared"},
+                { "South Carolina", "Jared"},
+                { "Stanford", "Jared"},
+                { "Clemson", "Jared"},
+                { "Texas Tech", "Jared"},
+                { "Syracuse", "Jared"},
+                { "Missouri", "Jared"},
+                { "UCF", "Jared"}
             };
 
             List<ScoreCard> results = new List<ScoreCard>();

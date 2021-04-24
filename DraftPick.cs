@@ -66,11 +66,11 @@ namespace _2021_draft_scorer
                     Pick numbers with comp picks:
                     Round 1 = picks 1-32
                     Round 2 = picks 33-64 
-                    Round 3 = picks 65-106
-                    Round 4 = picks 107-146
-                    Round 5 = picks 147-179
-                    Round 6 = picks 180-214
-                    Round 7 = picks 215-255
+                    Round 3 = picks 65-105
+                    Round 4 = picks 106-144
+                    Round 5 = picks 145-184
+                    Round 6 = picks 185-228
+                    Round 7 = picks 229-259
                 */
                 if(intpick >= 1 && intpick <= 32)
                 {
@@ -78,19 +78,19 @@ namespace _2021_draft_scorer
                 } else if (intpick >= 33 && intpick <= 64)
                 {
                     return 2;
-                } else if (intpick >= 65 && intpick <=106)
+                } else if (intpick >= 65 && intpick <=105)
                 {
                     return 3;
-                } else if (intpick >= 107 && intpick <= 146)
+                } else if (intpick >= 106 && intpick <= 144)
                 {
                     return 4;
-                } else if (intpick >= 147 && intpick <= 179)
+                } else if (intpick >= 145 && intpick <= 184)
                 {
                     return 5;
-                } else if (intpick >= 180 && intpick <= 214)
+                } else if (intpick >= 185 && intpick <= 228)
                 {
                     return 6;
-                } else if (intpick >= 215 && intpick <= 255)
+                } else if (intpick >= 229 && intpick <= 259)
                 {
                     return 7;
                 }
