@@ -358,11 +358,11 @@ namespace _2021_draft_scorer
             {
                 foreach (DraftPick dp in list)
                 {
-                    if (dp.actualPick)
+                    if (dp.actualPick) //change this to true to get mock draft picks.
                     {
                         try
                         {
-                            if (dp.playerName == "Jalen Hurts")
+                            if (dp.playerName == "Jalen Hurts") // this can probably be removed.
                             {
                                 //Jalen Hurts counts for Oklahoma, not Alabama.
                                 int originalScore = scores["Ross"];
@@ -389,7 +389,7 @@ namespace _2021_draft_scorer
                 }
             }
 
-            //Need to add prop bets points here.
+            // No prop bets this year, probably. 
             // AJ: 40
             // Ross: 35
             // Tilo: 25
@@ -401,9 +401,9 @@ namespace _2021_draft_scorer
             int originalJawadScore = scores["Jawad"];
             int originalJaredScore = scores["Jared"];
             //int ross, int jawad, int tilo, int jared, int aj
-            ScoreCard scoreWithPropBets = new ScoreCard("WithPropBets",scores["Ross"]+35, scores["Jawad"]+20, scores["Tilo"]+25, scores["Jared"], scores["AJ"]+40);
+            //ScoreCard scoreWithPropBets = new ScoreCard("WithPropBets",scores["Ross"]+35, scores["Jawad"]+20, scores["Tilo"]+25, scores["Jared"], scores["AJ"]+40);
             Console.WriteLine("Ross score: " + scores["Ross"].ToString());
-            results.Add(scoreWithPropBets);
+            //results.Add(scoreWithPropBets);
 
 
             var csvFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
