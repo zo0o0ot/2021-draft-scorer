@@ -404,7 +404,7 @@ namespace _2021_draft_scorer
             {
                 foreach (DraftPick dp in list)
                 {
-                    if (true) //change this from dp.actualPick to true to get mock draft picks.
+                    if (dp.actualPick) //change this from dp.actualPick to true to get mock draft picks.
                     {
                         AddSchoolScore(schoolResults, dp.school, dp.leagifyPoints);
                         try
@@ -478,9 +478,9 @@ namespace _2021_draft_scorer
             SchoolResult selectedSchool = schools.FirstOrDefault(school => school.schoolName == currentSchool);
             if (selectedSchool != null)
             {
-                Console.WriteLine(currentSchool + " Already in list!");
+                //Console.WriteLine(currentSchool + " Already in list!");
                 selectedSchool.score += points;
-                Console.WriteLine(currentSchool + " score is now " + selectedSchool.score + "!");
+                //Console.WriteLine(currentSchool + " score is now " + selectedSchool.score + "!");
                 
             }
             else
