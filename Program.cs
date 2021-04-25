@@ -258,6 +258,9 @@ namespace _2021_draft_scorer
                     return "Utah State";
                 case "North Carolina State":
                     return "NC State";
+                    //Lousiana Tech
+                case "Lousiana Tech":
+                    return "Louisiana Tech";
                 default:
                     return school;
             }
