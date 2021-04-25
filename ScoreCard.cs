@@ -10,10 +10,12 @@ namespace _2021_draft_scorer
         public int Tilo;
         public int Jared;
         public int AJ;
+        public int AJRejects;
+        public int Nobody;
         public string pick;
 
         public ScoreCard () {}
-        public ScoreCard (string pick, int ross, int jawad, int tilo, int jared, int aj)
+        public ScoreCard (string pick, int ross, int jawad, int tilo, int jared, int aj, int ajrejects, int nobody)
         {
             this.pick = pick;
             this.Ross = ross;
@@ -21,6 +23,8 @@ namespace _2021_draft_scorer
             this.Tilo = tilo;
             this.Jared = jared;
             this.AJ = aj;
+            this.AJRejects = ajrejects;
+            this.Nobody = nobody;
         }
     }
     public sealed class ScoreCardCsvMap : ClassMap<ScoreCard>
@@ -33,6 +37,9 @@ namespace _2021_draft_scorer
             Map(m => m.Tilo).Name("Tilo");
             Map(m => m.Jared).Name("Jared");
             Map(m => m.AJ).Name("AJ");
+            Map(m => m.AJ).Name("AJ");
+            Map(m => m.AJRejects).Name("AJRejects");
+            Map(m => m.Nobody).Name("Nobody");
         }
     }
 }

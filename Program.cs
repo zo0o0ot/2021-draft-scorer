@@ -29,7 +29,7 @@ namespace _2021_draft_scorer
             List<DraftPick> list1 = getDraft(document1);
             List<DraftPick> list2 = getDraft(document2);
             List<DraftPick> list3 = getDraft(document3);
-            List<DraftPick> list4 = getDraft(document4);
+            List<DraftPick> list4 = getDraftThirdRound(document4);
             List<DraftPick> list5 = getDraft(document5);
             List<DraftPick> list6 = getDraft(document6);
 
@@ -102,6 +102,39 @@ namespace _2021_draft_scorer
             }
             return mdpList;
         }
+
+        public static List<DraftPick> getDraftThirdRound(HtmlAgilityPack.HtmlDocument doc)
+        {
+            List<DraftPick> mdpList = new List<DraftPick>();
+            // This is still messy from debugging the different values.  It should be optimized.
+            var dn = doc.DocumentNode;
+            var dns = dn.SelectNodes("/html/body/div/div/div/div/table");
+            Console.WriteLine(dns.Count);
+            if (dns.Count > 1)
+            {
+                var attr = dns[1].Attributes;
+                var attrs = attr.ToArray();
+                var style = attr.FirstOrDefault().Value;
+                var ss = style.ToString();
+                bool hasStyle = ss.IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
+                foreach(var node in dns)
+                {
+                    var nodeStyle = node.Attributes.FirstOrDefault().Value.ToString();
+                    bool hasTheStyle = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("background-image: linear-gradient", StringComparison.OrdinalIgnoreCase) >= 0;
+                    if (hasTheStyle)
+                    {
+                        var tr = node.SelectSingleNode("tr");
+                        DraftPick DraftPick = createDraftEntry(tr);
+                        //Separate mock picks from actual picks
+                        DraftPick.actualPick = node.Attributes.FirstOrDefault().Value.ToString().IndexOf("darkslategray", StringComparison.OrdinalIgnoreCase) >= 0;
+                        mdpList.Add(DraftPick);
+                    }
+                }
+                var hasGradient = dns[1].Attributes.Contains("background-image");
+            }
+            return mdpList;
+        }
+
         public static DraftPick createDraftEntry(HtmlNode tableRow)
         {
             var childNodes = tableRow.ChildNodes;
@@ -223,6 +256,8 @@ namespace _2021_draft_scorer
                     return "Southeast Missouri State";
                 case "Utah St":
                     return "Utah State";
+                case "North Carolina State":
+                    return "NC State";
                 default:
                     return school;
             }
@@ -287,7 +322,9 @@ namespace _2021_draft_scorer
                 {"Jawad",0},
                 {"Tilo",0},
                 {"Jared",0},
-                {"AJ",0}
+                {"AJ",0},
+                {"AJRejects",0},
+                {"Nobody",0}
             };
             
 
@@ -341,7 +378,10 @@ namespace _2021_draft_scorer
                 { "Texas Tech", "Jared"},
                 { "Syracuse", "Jared"},
                 { "Missouri", "Jared"},
-                { "UCF", "Jared"}
+                { "UCF", "Jared"},
+                {"Wake Forest","AJRejects"}, // Adding in AJ's picks that aren't actually on his team, for science.
+                {"Texas A&M","AJRejects"},
+                {"Oregon State","AJRejects"}
             };
 
             List<ScoreCard> results = new List<ScoreCard>();
@@ -358,7 +398,7 @@ namespace _2021_draft_scorer
             {
                 foreach (DraftPick dp in list)
                 {
-                    if (dp.actualPick) //change this from dp.actualPick to true to get mock draft picks.
+                    if (true) //change this from dp.actualPick to true to get mock draft picks.
                     {
                         try
                         {
@@ -371,10 +411,13 @@ namespace _2021_draft_scorer
                         catch
                         {
                             Console.WriteLine("Nobody picked this school:" + dp.school);
+                            int originalScore = scores["Nobody"];
+                            scores["Nobody"] = originalScore + dp.leagifyPoints;
                         }
                         
                         //int ross, int jawad, int tilo, int jared, int aj
-                        ScoreCard newScore = new ScoreCard(dp.pickNumber ,scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"]);
+                        ScoreCard newScore = new ScoreCard(dp.pickNumber ,scores["Ross"], scores["Jawad"], scores["Tilo"], scores["Jared"], scores["AJ"],
+                            scores["AJRejects"], scores["Nobody"]);
                         Console.WriteLine("Ross score: " + scores["Ross"].ToString());
                         results.Add(newScore);
                     }
