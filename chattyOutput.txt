@@ -1,0 +1,2859 @@
+17
+1
+40
+1
+Jacksonville
+Trevor Lawrence
+Clemson
+QB
++0
+South Carolina
+1
+35
+2
+NY Jets
+Zach Wilson
+BYU
+QB
+-2
+Utah
+1
+45
+3
+San Francisco (Trade)
+Justin Fields
+Ohio State
+QB
+-3
+Ohio
+1
+45
+4
+Jacksonville (SIM Trade)
+Penei Sewell
+Oregon
+OT
++2
+Oregon
+1
+35
+5
+Cincinnati
+Kyle Pitts
+Florida
+TE
++0
+Florida
+1
+45
+6
+Miami (Trade)
+Ja'Marr Chase
+LSU
+WR
++3
+Louisiana
+1
+35
+7
+Detroit
+DeVonta Smith
+Alabama
+WR
+-2
+Alabama
+1
+35
+8
+Carolina
+Rashawn Slater
+Northwestern
+OT
+-3
+Illinois
+1
+35
+9
+Denver
+Micah Parsons
+Penn State
+ILB
+-3
+Pennsylvania
+1
+45
+10
+New England (SIM Trade)
+Mac Jones
+Alabama
+QB
+-5
+Alabama
+1
+30
+11
+NY Giants
+Jaylen Waddle
+Alabama
+WRS
++4
+Alabama
+1
+40
+12
+Philadelphia (Trade)
+Patrick Surtain II
+Alabama
+CB
++4
+Alabama
+1
+40
+13
+Chicago (SIM Trade)
+Trey Lance
+North Dakota State
+QB
++3
+North Dakota
+1
+30
+14
+Minnesota
+Alex Leatherwood
+Alabama
+OT
+-14
+Alabama
+1
+40
+15
+Dallas (SIM Trade)
+Jaycee Horn
+South Carolina
+CB
++2
+South Carolina
+1
+30
+16
+Arizona
+Tyson Campbell
+Georgia
+CB
+-31
+Georgia
+17
+1
+30
+17
+Las Vegas
+Trevon Moehrig
+TCU
+S
++1
+Texas
+1
+30
+18
+Miami
+Christian Darrisaw
+Virginia Tech
+OT
++4
+Virginia
+1
+40
+19
+Kansas City (SIM Trade)
+Jaelan Phillips
+Miami (FL)
+EDGE
++2
+Florida
+1
+40
+20
+LA Chargers (SIM Trade)
+Alijah Vera-Tucker
+USC
+OT
++0
+California
+1
+25
+21
+Indianapolis
+Samuel Cosmi
+Texas
+OT
+-4
+Texas
+1
+25
+22
+Tennessee
+Rashod Bateman
+Minnesota
+WR
++0
+Minnesota
+1
+35
+23
+NY Jets (Trade)
+Wyatt Davis
+Ohio State
+OG
+-7
+Ohio
+1
+25
+24
+Pittsburgh
+Travis Etienne
+Clemson
+RB
+-2
+South Carolina
+1
+35
+25
+Atlanta (SIM Trade)
+Kwity Paye
+Michigan
+EDGE
++7
+Michigan
+1
+25
+26
+Cleveland
+Gregory Rousseau
+Miami (FL)
+EDGE
+-10
+Florida
+1
+25
+27
+Baltimore
+Richie Grant
+UCF
+S
+-5
+Florida
+1
+25
+28
+New Orleans
+Asante Samuel Jr.
+Florida State
+CB
++5
+Florida
+1
+25
+29
+Green Bay
+Jeremiah Owusu-Koramoah
+Notre Dame
+OLB
++2
+Indiana
+1
+25
+30
+Buffalo
+Christian Barmore
+Alabama
+DL3T
++9
+Alabama
+1
+35
+31
+Washington (SIM Trade)
+Teven Jenkins
+Oklahoma State
+OT
+-2
+Oklahoma
+1
+25
+32
+Tampa Bay
+Azeez Ojulari
+Georgia
+EDGE
++13
+Georgia
+33
+2
+30
+33
+Atlanta (SIM Trade)
+Caleb Farley
+Virginia Tech
+CB
++2
+Virginia
+2
+20
+34
+NY Jets
+Greg Newsome II
+Northwestern
+CB
++10
+Illinois
+2
+20
+35
+Atlanta
+Najee Harris
+Alabama
+RB
+-6
+Alabama
+2
+30
+36
+Miami (Trade)
+Zaven Collins
+Tulsa
+OLB
++2
+Oklahoma
+2
+20
+37
+Philadelphia
+Terrace Marshall
+LSU
+WR
++0
+Louisiana
+2
+20
+38
+Cincinnati
+Jalen Mayfield
+Michigan
+OT
+-1
+Michigan
+2
+20
+39
+Carolina
+Nick Bolton
+Missouri
+ILB
+-1
+Missouri
+2
+20
+40
+Denver
+Jayson Oweh
+Penn State
+EDGE
++2
+Pennsylvania
+2
+20
+41
+Detroit
+Joseph Ossai
+Texas
+EDGE
++6
+Texas
+2
+20
+42
+NY Giants
+Carlos Basham Jr.
+Wake Forest
+EDGE
+-12
+North Carolina
+2
+20
+43
+San Francisco
+Kadarius Toney
+Florida
+WR
+-1
+Florida
+2
+20
+44
+Dallas
+Jevon Holland
+Oregon
+S
+-5
+Oregon
+2
+30
+45
+Jacksonville (Trade)
+Rondale Moore
+Purdue
+WRS
++16
+Indiana
+2
+20
+46
+New England
+Tylan Wallace
+Oklahoma State
+WR
+-13
+Oklahoma
+2
+20
+47
+LA Chargers
+Trey Smith
+Tennessee
+OG
++4
+Tennessee
+2
+20
+48
+Las Vegas
+Liam Eichenberg
+Notre Dame
+OT
+-7
+Indiana
+2
+15
+49
+Arizona
+Pat Freiermuth
+Penn State
+TE
+-7
+Pennsylvania
+2
+15
+50
+Miami
+Javonte Williams
+North Carolina
+RB
+-4
+North Carolina
+2
+15
+51
+Washington
+Andre Cisco
+Syracuse
+S
++3
+New York
+2
+25
+52
+LA Chargers (SIM Trade)
+Elijah Molden
+Washington
+CB
+-10
+Washington
+2
+15
+53
+Tennessee
+Jackson Carman
+Clemson
+OT
+-12
+South Carolina
+2
+15
+54
+Indianapolis
+Daviyon Nixon
+Iowa
+DL3T
++12
+Iowa
+2
+15
+55
+Pittsburgh
+Creed Humphrey
+Oklahoma
+OC
++9
+Oklahoma
+2
+15
+56
+Seattle
+Ifeatu Melifonwu
+Syracuse
+CB
+-24
+New York
+2
+15
+57
+LA Rams
+Joe Tryon
+Washington
+EDGE
+-9
+Washington
+2
+15
+58
+Baltimore
+Landon Dickerson
+Alabama
+OC
+-3
+Alabama
+2
+15
+59
+Cleveland
+Nico Collins
+Michigan
+WR
+-66
+Michigan
+2
+15
+60
+New Orleans
+Amon-Ra St. Brown
+USC
+WR
+-3
+California
+2
+15
+61
+Buffalo
+Marvin Wilson
+Florida State
+DL1T
+-7
+Florida
+2
+15
+62
+Green Bay
+Quinn Meinerz
+UW-Whitewater
+OC
+-20
+Wisconsin
+2
+25
+63
+Washington (SIM Trade)
+Brevin Jordan
+Miami (FL)
+TE
+-34
+Florida
+2
+15
+64
+Tampa Bay
+Levi Onwuzurike
+Washington
+DL3T
++12
+Washington
+41
+3
+20
+65
+Atlanta (SIM Trade)
+Hamsah Nasirildeen
+Florida State
+S
++1
+Florida
+3
+10
+66
+NY Jets
+Hunter Long
+Boston College
+TE
+-39
+Massachusetts
+3
+10
+67
+Houston
+Ben Cleveland
+Georgia
+OG
++7
+Georgia
+3
+10
+68
+Atlanta
+Tyler Shelvin
+LSU
+DL1T
+-3
+Louisiana
+3
+10
+69
+Cincinnati
+Dylan Moses
+Alabama
+OLB
++19
+Alabama
+3
+10
+70
+Philadelphia
+Eric Stokes
+Georgia
+CB
++0
+Georgia
+3
+10
+71
+Denver
+Jaylen Twyman
+Pitt
+DL5T
++14
+Pennsylvania
+3
+10
+72
+Detroit
+Jay Tufele
+USC
+DL3T
++21
+California
+3
+10
+73
+Carolina
+Kyle Trask
+Florida
+QB
+-8
+Florida
+3
+20
+74
+Washington (Trade)
+Kellen Mond
+Texas A&M
+QB
+-12
+Texas
+3
+10
+75
+Dallas
+Milton Williams
+Louisiana Tech
+DL5T
+-62
+Louisiana
+3
+10
+76
+NY Giants
+Dillon Radunz
+North Dakota State
+OT
++1
+North Dakota
+3
+10
+77
+LA Chargers
+Ronnie Perkins
+Oklahoma
+EDGE
++0
+Oklahoma
+3
+10
+78
+Minnesota
+Alim McNeill
+NC State
+DL3T
++9
+North Carolina
+3
+20
+79
+Las Vegas (Trade)
+Patrick Jones II
+Pitt
+EDGE
+-8
+Pennsylvania
+3
+10
+80
+Las Vegas
+Kelvin Joseph
+Kentucky
+CB
+-12
+Kentucky
+3
+10
+81
+Miami
+Rashad Weaver
+Pitt
+EDGE
+-9
+Pennsylvania
+3
+10
+82
+Washington
+Jabril Cox
+LSU
+OLB
++29
+Louisiana
+3
+10
+83
+Chicago
+Paulson Adebo
+Stanford
+CB
+-10
+California
+3
+20
+84
+Philadelphia (Trade)
+Cameron McGrone
+Michigan
+OLB
++12
+Michigan
+3
+10
+85
+Tennessee
+Jamin Davis
+Kentucky
+ILB
++9
+Kentucky
+3
+20
+86
+NY Jets (Trade)
+Elijah Moore
+Ole Miss
+WRS
++28
+Mississippi
+3
+10
+87
+Pittsburgh
+Walker Little
+Stanford
+OT
+-2
+California
+3
+10
+88
+LA Rams
+Baron Browning
+Ohio State
+ILB
++9
+Ohio
+3
+10
+89
+Cleveland
+Chazz Surratt
+North Carolina
+OLB
++15
+North Carolina
+3
+20
+90
+Minnesota (Trade)
+Aaron Banks
+Notre Dame
+OG
+-20
+Indiana
+3
+20
+91
+Cleveland (Trade)
+Aaron Robinson
+UCF
+CB
+-4
+Florida
+3
+10
+92
+Green Bay
+Dyami Brown
+North Carolina
+WR
++19
+North Carolina
+3
+10
+93
+Buffalo
+Brady Christensen
+BYU
+OT
+-7
+Utah
+3
+10
+94
+Kansas City
+Spencer K. Brown
+Northern Iowa
+OT
++3
+Iowa
+3
+10
+95
+Tampa Bay
+James Hudson
+Cincinnati
+OT
+-27
+Ohio
+3
+20
+96
+Dallas (SIM Trade)
+Bobby Brown III
+Texas A&M
+DL1T
+-11
+Texas
+3
+10
+97
+LA Chargers (Comp)
+Seth Williams
+Auburn
+WR
++30
+Alabama
+3
+10
+98
+New Orleans (Comp)
+Marlon Tuipulotu
+USC
+DL3T
++2
+California
+3
+10
+99
+Dallas (Comp)
+Talanoa Hufanga
+USC
+S
++14
+California
+3
+10
+100
+Tennessee (Comp)
+Quincy Roche
+Miami (FL)
+EDGE
+-1
+Florida
+3
+20
+101
+Detroit (Trade)
+Dayo Odeyingbo
+Vanderbilt
+DL5T
++3
+Tennessee
+3
+10
+102
+San Francisco (Comp)
+Drake Jackson
+Kentucky
+OC
+-18
+Kentucky
+3
+10
+103
+LA Rams (Comp)
+Darius Stills
+West Virginia
+DL5T
++4
+West Virginia
+3
+10
+104
+Baltimore (Comp)
+Shaka Toney
+Penn State
+EDGE
+-26
+Pennsylvania
+3
+10
+105
+New Orleans (Comp)
+Pete Werner
+Ohio State
+ILB
+-4
+Ohio
+66
+4
+8
+106
+Jacksonville
+Tommy Tremble
+Notre Dame
+TE
+-5
+Indiana
+4
+8
+107
+NY Jets
+Josh Myers
+Ohio State
+OC
++24
+Ohio
+4
+8
+108
+Atlanta
+Jamie Newman
+Georgia
+QB
+-5
+Georgia
+4
+8
+109
+Houston
+Anthony Schwartz
+Auburn
+WR
++7
+Alabama
+4
+18
+110
+Cleveland (Trade)
+Caden Sterns
+Texas
+S
++6
+Texas
+4
+8
+111
+Cincinnati
+Michael Carter
+North Carolina
+RBC
++33
+North Carolina
+4
+8
+112
+Detroit
+Shaun Wade
+Ohio State
+CB
++6
+Ohio
+4
+8
+113
+Carolina
+Kenneth Gainwell
+Memphis
+RBC
++28
+Tennessee
+4
+8
+114
+Denver
+Israel Mukuamu
+South Carolina
+CB
+-2
+South Carolina
+4
+8
+115
+Dallas
+Hamilcar Rashed
+Oregon State
+EDGE
+-20
+Oregon
+4
+8
+116
+NY Giants
+Trill Williams
+Syracuse
+CB
+-15
+New York
+4
+8
+117
+San Francisco
+Benjamin St-Juste
+Minnesota
+CB
+-42
+Minnesota
+4
+18
+118
+Chicago (SIM Trade)
+D'Wayne Eskridge
+Western Michigan
+WRS
++30
+Michigan
+4
+8
+119
+Minnesota
+Derrick Barnes
+Purdue
+ILB
+-9
+Indiana
+4
+8
+120
+New England
+Deonte Brown
+Alabama
+OG
++12
+Alabama
+4
+18
+121
+Las Vegas (Trade)
+Damonte Coxie
+Memphis
+WR
++6
+Tennessee
+4
+18
+122
+New England (Trade)
+Paris Ford
+Pitt
+S
++8
+Pennsylvania
+4
+18
+123
+Philadelphia (Trade)
+Chris Rumph II
+Duke
+EDGE
+-17
+North Carolina
+4
+8
+124
+Washington
+Sage Surratt
+Wake Forest
+WR
++5
+North Carolina
+4
+18
+125
+Minnesota (Trade)
+Jaelon Darden
+North Texas
+WRS
+-1
+Texas
+4
+8
+126
+Tennessee
+Marco Wilson
+Florida
+CB
+-7
+Florida
+4
+8
+127
+Indianapolis
+Tutu Atwell
+Louisville
+WRS
++33
+Kentucky
+4
+8
+128
+Pittsburgh
+Tony Poljan
+Virginia
+TE
+-24
+Virginia
+4
+8
+129
+Seattle
+Jimmy Morrissey
+Pitt
+OC
+-76
+Pennsylvania
+4
+18
+130
+Jacksonville (Trade)
+Chuba Hubbard
+Oklahoma State
+RB
++27
+Oklahoma
+4
+8
+131
+Baltimore
+Khalil Herbert
+Virginia Tech
+RBC
++19
+Virginia
+4
+8
+132
+Cleveland
+Tommy Togiai
+Ohio State
+DL3T
++15
+Ohio
+4
+8
+133
+New Orleans
+Ar'Darius Washington
+TCU
+S
++15
+Texas
+4
+18
+134
+Minnesota (Trade)
+Trey Sermon
+Ohio State
+RB
+-11
+Ohio
+4
+8
+135
+Green Bay
+Rodarius Williams
+Oklahoma State
+CB
+-3
+Oklahoma
+4
+8
+136
+Kansas City
+Ihmir Smith-Marsette
+Iowa
+WR
++15
+Iowa
+4
+8
+137
+Tampa Bay
+Rhamondre Stevenson
+Oklahoma
+RB
+-16
+Oklahoma
+4
+8
+137
+Tampa Bay
+Rhamondre Stevenson
+Oklahoma
+RB
+-16
+Oklahoma
+4
+8
+138
+Dallas (Comp)
+Tommy Doyle
+Miami (OH)
+OT
+-17
+Ohio
+4
+8
+139
+Dallas
+Marlon Williams
+UCF
+WR
++15
+Florida
+4
+8
+140
+Pittsburgh (Comp)
+Olaijah Griffin
+USC
+CB
++6
+California
+4
+8
+141
+LA Rams (Comp)
+Divine Deablo
+Virginia Tech
+S
++18
+Virginia
+4
+8
+142
+Green Bay (Comp)
+JaCoby Stevens
+LSU
+S
+-6
+Louisiana
+4
+8
+143
+Minnesota (Comp)
+Payton Turner
+Houston
+EDGE
+-59
+Texas
+4
+8
+144
+Kansas City (Comp)
+Charles Snowden
+Virginia
+OLB
++15
+Virginia
+5
+7
+145
+Jacksonville
+Tariq Thompson
+San Diego State
+S
++6
+California
+5
+7
+146
+NY Jets
+Cameron Sample
+Tulane
+EDGE
++3
+Louisiana
+5
+7
+147
+Houston
+Ta'Quon Graham
+Texas
+DL3T
++0
+Texas
+5
+7
+148
+Atlanta
+Jack Anderson
+Texas Tech
+OG
+-10
+Texas
+5
+7
+149
+Cincinnati
+Jonathan Marshall
+Arkansas
+DL1T
++17
+Arkansas
+5
+7
+150
+Philadelphia
+Trey Hill
+Georgia
+OC
++23
+Georgia
+5
+7
+151
+Carolina
+Shakur Brown
+Michigan State
+CB
++15
+Michigan
+5
+7
+152
+Denver
+Tedarrell Slaton
+Florida
+DL1T
++10
+Florida
+5
+7
+153
+Detroit
+Monty Rice
+Georgia
+OLB
++9
+Georgia
+5
+17
+154
+NY Jets (Trade)
+Robert Hainsey
+Notre Dame
+OT
+-6
+Indiana
+5
+7
+155
+San Francisco
+Keith Taylor
+Washington
+CB
++14
+Washington
+5
+17
+156
+Miami (Trade)
+Sadarius Hutcherson
+South Carolina
+OG
+-8
+South Carolina
+5
+7
+157
+Minnesota
+Robert Rochell
+Central Arkansas
+CB
++6
+Arkansas
+5
+17
+158
+Houston (Trade)
+Jamien Sherwood
+Auburn
+S
++8
+Alabama
+5
+7
+159
+LA Chargers
+K.J. Britt
+Auburn
+ILB
++3
+Alabama
+5
+7
+160
+Arizona
+Jaret Patterson
+Buffalo
+RB
+-15
+New York
+5
+17
+161
+Buffalo (Trade)
+Darren Hall
+San Diego State
+CB
++7
+California
+5
+17
+162
+Las Vegas (Trade)
+Amari Rodgers
+Clemson
+WR
++13
+South Carolina
+5
+7
+163
+Washington
+Paddy Fisher
+Northwestern
+ILB
+-7
+Illinois
+5
+7
+164
+Chicago
+Adrian Ealy
+Oklahoma
+OT
++2
+Oklahoma
+5
+7
+165
+Indianapolis
+Jordan Smith
+UAB
+EDGE
++8
+Alabama
+5
+7
+166
+Tennessee
+Demetric Felton
+UCLA
+RBC
++20
+California
+5
+17
+167
+Las Vegas (Trade)
+Shane Buechele
+SMU
+QB
+-16
+Texas
+5
+17
+168
+Minnesota (Trade)
+Davis Mills
+Stanford
+QB
+-17
+California
+5
+17
+169
+Cleveland (Trade)
+Tommy Kraemer
+Notre Dame
+OG
+-8
+Indiana
+77
+5
+7
+184
+Baltimore (Comp)
+Damon Hazelton
+Missouri
+WR
++23
+Missouri
+6
+16
+185
+LA Chargers (Trade)
+Richard LeCounte III
+Georgia
+S
++13
+Georgia
+6
+16
+186
+NY Jets (Trade)
+Tony Fields II
+West Virginia
+OLB
+-10
+West Virginia
+6
+6
+187
+Atlanta
+Dazz Newsome
+North Carolina
+WR
++18
+North Carolina
+6
+16
+188
+New England (Trade)
+Thomas Graham Jr.
+Oregon
+CB
++15
+Oregon
+6
+6
+189
+Philadelphia
+Damar Hamlin
+Pitt
+S
++1
+Pennsylvania
+6
+6
+190
+Cincinnati
+Josh Imatorbhebhe
+Illinois
+WR
++19
+Illinois
+6
+6
+191
+Denver
+Larry Borom
+Missouri
+OT
++4
+Missouri
+6
+16
+192
+Dallas (Trade)
+Sam Ehlinger
+Texas
+QB
++2
+Texas
+6
+6
+193
+Carolina
+Matt Bushman
+BYU
+TE
+-8
+Utah
+6
+6
+194
+San Francisco
+Osa Odighizuwa
+UCLA
+DL5T
+-19
+California
+6
+16
+195
+Houston (Trade)
+Quintin Morris
+Bowling Green
+TE
+-12
+Ohio
+6
+6
+196
+NY Giants
+Khyiris Tonga
+BYU
+DL1T
+-1
+Utah
+6
+6
+197
+New England
+Joshua Kaindoh
+Florida State
+EDGE
++13
+Florida
+6
+6
+198
+LA Chargers
+Javian Hawkins
+Louisville
+RBC
++31
+Kentucky
+6
+6
+199
+Minnesota
+Darrick Forrest
+Cincinnati
+S
+-82
+Ohio
+6
+6
+200
+Las Vegas
+Garret Wallow
+TCU
+OLB
+-16
+Texas
+6
+16
+201
+NY Giants (Trade)
+Michal Menet
+Penn State
+OC
+-38
+Pennsylvania
+6
+16
+202
+Cincinnati (Trade)
+Victor Dimukeje
+Duke
+EDGE
++13
+North Carolina
+6
+16
+203
+Houston (Trade)
+D'Ante Smith
+East Carolina
+OT
+-6
+North Carolina
+6
+6
+204
+Chicago
+Chauncey Golston
+Iowa
+DL5T
+-7
+Iowa
+6
+6
+205
+Tennessee
+Kenny Yeboah
+Ole Miss
+TE
+-13
+Mississippi
+6
+6
+206
+Indianapolis
+D.J. Daniel
+Georgia
+CB
++27
+Georgia
+6
+16
+207
+Kansas City (Trade)
+Tamorrion Terry
+Florida State
+WR
++29
+Florida
+6
+16
+208
+Chicago (Trade)
+Malcolm Koonce
+Buffalo
+EDGE
+-16
+New York
+6
+6
+209
+LA Rams
+Dan Moore Jr.
+Texas A&M
+OT
+-5
+Texas
+6
+6
+210
+Baltimore
+Isaiahh Loudermilk
+Wisconsin
+DL5T
+-7
+Wisconsin
+6
+6
+211
+Cleveland
+Naquan Jones
+Michigan State
+DL1T
+-12
+Michigan
+6
+16
+212
+Houston (Trade)
+Elerson Smith
+Northern Iowa
+EDGE
+-17
+Iowa
+6
+6
+213
+Buffalo
+John Bates
+Boise State
+TE
+-18
+Idaho
+6
+6
+214
+Green Bay
+Camryn Bynum
+California
+CB
++34
+California
+6
+16
+215
+Tennessee (Trade)
+Ryan McCollum
+Texas A&M
+OC
+-28
+Texas
+6
+16
+216
+Pittsburgh (Trade)
+Patrick Johnson
+Tulane
+EDGE
+-52
+Louisiana
+6
+6
+217
+Tampa Bay (Comp)
+Kary Vincent Jr.
+LSU
+CB
++26
+Louisiana
+6
+6
+218
+New Orleans (Comp)
+Landon Young
+Kentucky
+OT
+-12
+Kentucky
+6
+6
+219
+Atlanta (Comp)
+Max Richardson
+Boston College
+OLB
+-9
+Massachusetts
+6
+6
+220
+Green Bay (Comp)
+Jalen Camp
+Georgia Tech
+WR
+-70
+Georgia
+6
+6
+221
+Chicago (Comp)
+Brenden Knox
+Marshall
+RB
+-20
+West Virginia
+6
+6
+222
+Carolina (Comp)
+Tyree Gillespie
+Missouri
+S
++22
+Missouri
+6
+16
+223
+Arizona (Trade)
+Shi Smith
+South Carolina
+WRS
+-11
+South Carolina
+6
+6
+224
+Philadelphia (Comp)
+Brady White
+Memphis
+QB
++4
+Tennessee
+6
+6
+225
+Philadelphia (Comp)
+O'Bryan Goodson
+Memphis
+DL3T
+-40
+Tennessee
+6
+16
+226
+NY Jets (Trade)
+Mark Gilbert
+Duke
+CB
+-62
+North Carolina
+6
+6
+227
+Dallas (Comp)
+Drew Dalman
+Stanford
+OC
+-21
+California
+6
+6
+228
+Chicago (Comp)
+Grant Stuard
+Houston
+OLB
+-17
+Texas
+7
+15
+229
+New Orleans (Trade)
+Cary Angeline
+NC State
+TE
+-20
+North Carolina
+7
+15
+230
+San Francisco (Trade)
+Pooka Williams
+Kansas
+RBC
+-2
+Kansas
+7
+15
+231
+Miami (Trade)
+James Wiggins
+Cincinnati
+S
+-2
+Ohio
+7
+15
+232
+Tennessee (Trade)
+David Moore
+Grambling State
+OG
+-43
+Louisiana
+7
+15
+233
+Houston (Trade)
+Spencer Brown
+UAB
+RB
+-31
+Alabama
+7
+5
+234
+Philadelphia
+Calvin Ashley
+Florida A&M
+OG
+-42
+Florida
+7
+15
+235
+Cincinnati (Trade)
+Carlo Kemp
+Michigan
+DL5T
++13
+Michigan
+7
+15
+236
+Buffalo (Trade)
+Jamar Johnson
+Indiana
+S
+-6
+Indiana
+7
+5
+237
+Denver
+Mark Webb
+Georgia
+S
+-21
+Georgia
+7
+5
+238
+Dallas
+Kylen Granson
+SMU
+TE
+-19
+Texas
+7
+15
+239
+Denver (Trade)
+K.J. Costello
+Mississippi State
+QB
+-34
+Mississippi
+7
+15
+240
+Philadelphia (Trade)
+Jordon Scott
+Oregon
+DL1T
+-43
+Oregon
+7
+5
+241
+LA Chargers
+Anthony Hines
+Texas A&M
+OLB
+-13
+Texas
+7
+5
+242
+New England
+Erroll Thompson
+Mississippi State
+ILB
+-50
+Mississippi
+7
+5
+243
+Arizona
+Kendrick Green
+Illinois
+OG
+-34
+Illinois
+7
+15
+244
+Washington (Trade)
+Deommodore Lenoir
+Oregon
+CB
++49
+Oregon
+7
+15
+245
+Pittsburgh (Trade)
+Ambry Thomas
+Michigan
+CB
++41
+Michigan
+7
+5
+246
+Washington
+Dax Milne
+BYU
+WRS
+-21
+Utah
+7
+15
+247
+Arizona (Trade)
+Cole Van Lanen
+Wisconsin
+OT
++7
+Wisconsin
+7
+5
+248
+Indianapolis
+Nick Eubanks
+Michigan
+TE
+-14
+Michigan
+7
+15
+249
+Jacksonville (Trade)
+Kayode Awosika
+Buffalo
+OT
+-20
+New York
+7
+5
+250
+Seattle
+Austin Watkins
+UAB
+WR
++12
+Alabama
+7
+15
+251
+Tampa Bay (Trade)
+Carson Green
+Texas A&M
+OG
+-27
+Texas
+7
+5
+252
+LA Rams
+Shemar Jean-Charles
+Appalachian State
+CB
++44
+North Carolina
+7
+15
+253
+Denver (Trade)
+Gary Brightwell
+Arizona
+RB
+-29
+Arizona
+7
+15
+254
+Pittsburgh (Trade)
+Marquez Stevenson
+Houston
+WR
++48
+Texas
+7
+5
+255
+New Orleans
+Tarron Jackson
+Coastal Carolina
+EDGE
+-16
+South Carolina
+7
+5
+256
+Green Bay
+Avery Williams
+Boise State
+CB
+-122
+Idaho
+7
+15
+257
+Cleveland (Trade)
+Tuf Borland
+Ohio State
+ILB
+-51
+Ohio
+7
+15
+258
+Miami (Trade)
+Tay Gowan
+UCF
+CB
++48
+Florida
+7
+5
+259
+Tampa Bay
+Dez Fitzpatrick
+Louisville
+WR
++40
+Kentucky
+Creating csv...
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Checking for mismatches....
+No mismatches in System.Collections.Generic.List`1[_2021_draft_scorer.DraftPick].....
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 0
+Ross score: 35
+Ross score: 35
+Ross score: 35
+Alabama Already in list!
+Alabama score is now 80!
+Ross score: 80
+Alabama Already in list!
+Alabama score is now 110!
+Ross score: 110
+Alabama Already in list!
+Alabama score is now 150!
+Ross score: 150
+Ross score: 150
+Alabama Already in list!
+Alabama score is now 180!
+Ross score: 180
+Ross score: 180
+Ross score: 180
+Ross score: 180
+Nobody picked this school:Virginia Tech
+Ross score: 180
+Ross score: 180
+Ross score: 220
+Ross score: 220
+Ross score: 220
+Ohio State Already in list!
+Ohio State score is now 80!
+Ross score: 220
+Clemson Already in list!
+Clemson score is now 65!
+Ross score: 220
+Ross score: 220
+Miami (FL) Already in list!
+Miami (FL) score is now 65!
+Ross score: 220
+Ross score: 220
+Ross score: 245
+Ross score: 245
+Alabama Already in list!
+Alabama score is now 205!
+Ross score: 270
+Ross score: 270
+Georgia Already in list!
+Georgia score is now 55!
+Ross score: 270
+Virginia Tech Already in list!
+Virginia Tech score is now 60!
+Nobody picked this school:Virginia Tech
+Ross score: 270
+Northwestern Already in list!
+Northwestern score is now 55!
+Ross score: 270
+Alabama Already in list!
+Alabama score is now 225!
+Ross score: 290
+Ross score: 320
+LSU Already in list!
+LSU score is now 65!
+Ross score: 320
+Michigan Already in list!
+Michigan score is now 55!
+Ross score: 320
+Ross score: 320
+Penn State Already in list!
+Penn State score is now 55!
+Ross score: 320
+Texas Already in list!
+Texas score is now 45!
+Ross score: 320
+Ross score: 320
+Florida Already in list!
+Florida score is now 55!
+Ross score: 320
+Oregon Already in list!
+Oregon score is now 65!
+Ross score: 320
+Ross score: 320
+Oklahoma State Already in list!
+Oklahoma State score is now 55!
+Ross score: 320
+Ross score: 340
+Notre Dame Already in list!
+Notre Dame score is now 45!
+Ross score: 340
+Penn State Already in list!
+Penn State score is now 70!
+Ross score: 340
+Ross score: 355
+Ross score: 355
+Ross score: 355
+Clemson Already in list!
+Clemson score is now 80!
+Ross score: 355
+Ross score: 355
+Ross score: 355
+Syracuse Already in list!
+Syracuse score is now 30!
+Ross score: 355
+Washington Already in list!
+Washington score is now 40!
+Ross score: 355
+Alabama Already in list!
+Alabama score is now 240!
+Ross score: 370
+Michigan Already in list!
+Michigan score is now 70!
+Ross score: 370
+USC Already in list!
+USC score is now 55!
+Ross score: 385
+Florida State Already in list!
+Florida State score is now 40!
+Ross score: 400
+Nobody picked this school:UW-Whitewater
+Ross score: 400
+Miami (FL) Already in list!
+Miami (FL) score is now 90!
+Ross score: 400
+Washington Already in list!
+Washington score is now 55!
+Ross score: 400
+Florida State Already in list!
+Florida State score is now 60!
+Ross score: 420
+Nobody picked this school:Boston College
+Ross score: 420
+Georgia Already in list!
+Georgia score is now 65!
+Ross score: 420
+LSU Already in list!
+LSU score is now 75!
+Ross score: 420
+Alabama Already in list!
+Alabama score is now 250!
+Ross score: 430
+Georgia Already in list!
+Georgia score is now 75!
+Ross score: 430
+Ross score: 430
+USC Already in list!
+USC score is now 65!
+Ross score: 440
+Florida Already in list!
+Florida score is now 65!
+Ross score: 440
+Ross score: 440
+Nobody picked this school:Louisiana Tech
+Ross score: 440
+North Dakota State Already in list!
+North Dakota State score is now 50!
+Ross score: 440
+Oklahoma Already in list!
+Oklahoma score is now 25!
+Ross score: 440
+Ross score: 440
+Pitt Already in list!
+Pitt score is now 30!
+Ross score: 440
+Ross score: 440
+Pitt Already in list!
+Pitt score is now 40!
+Ross score: 440
+LSU Already in list!
+LSU score is now 85!
+Ross score: 440
+Ross score: 440
+Michigan Already in list!
+Michigan score is now 90!
+Ross score: 440
+Kentucky Already in list!
+Kentucky score is now 20!
+Ross score: 440
+Ross score: 440
+Stanford Already in list!
+Stanford score is now 20!
+Ross score: 440
+Ohio State Already in list!
+Ohio State score is now 90!
+Ross score: 440
+North Carolina Already in list!
+North Carolina score is now 25!
+Ross score: 450
+Notre Dame Already in list!
+Notre Dame score is now 65!
+Ross score: 450
+UCF Already in list!
+UCF score is now 45!
+Ross score: 450
+North Carolina Already in list!
+North Carolina score is now 35!
+Ross score: 460
+BYU Already in list!
+BYU score is now 45!
+Ross score: 460
+Nobody picked this school:Northern Iowa
+Ross score: 460
+Ross score: 460
+Texas A&M Already in list!
+Texas A&M score is now 40!
+Ross score: 460
+Ross score: 460
+USC Already in list!
+USC score is now 75!
+Ross score: 470
+USC Already in list!
+USC score is now 85!
+Ross score: 480
+Miami (FL) Already in list!
+Miami (FL) score is now 100!
+Ross score: 480
+Nobody picked this school:Vanderbilt
+Ross score: 480
+Kentucky Already in list!
+Kentucky score is now 30!
+Ross score: 480
+Ross score: 490
+Penn State Already in list!
+Penn State score is now 80!
+Ross score: 490
+Ohio State Already in list!
+Ohio State score is now 100!
+Ross score: 490
+Notre Dame Already in list!
+Notre Dame score is now 73!
+Ross score: 490
+Ohio State Already in list!
+Ohio State score is now 108!
+Ross score: 490
+Georgia Already in list!
+Georgia score is now 83!
+Ross score: 490
+Auburn Already in list!
+Auburn score is now 18!
+Ross score: 490
+Texas Already in list!
+Texas score is now 63!
+Ross score: 490
+North Carolina Already in list!
+North Carolina score is now 43!
+Ross score: 498
+Ohio State Already in list!
+Ohio State score is now 116!
+Ross score: 498
+Ross score: 498
+South Carolina Already in list!
+South Carolina score is now 48!
+Ross score: 498
+Ross score: 498
+Syracuse Already in list!
+Syracuse score is now 38!
+Ross score: 498
+Minnesota Already in list!
+Minnesota score is now 33!
+Ross score: 498
+Nobody picked this school:Western Michigan
+Ross score: 498
+Purdue Already in list!
+Purdue score is now 38!
+Ross score: 498
+Alabama Already in list!
+Alabama score is now 258!
+Ross score: 506
+Memphis Already in list!
+Memphis score is now 26!
+Ross score: 506
+Pitt Already in list!
+Pitt score is now 58!
+Ross score: 506
+Ross score: 524
+Wake Forest Already in list!
+Wake Forest score is now 28!
+Ross score: 524
+Nobody picked this school:North Texas
+Ross score: 524
+Florida Already in list!
+Florida score is now 73!
+Ross score: 524
+Ross score: 524
+Nobody picked this school:Virginia
+Ross score: 524
+Pitt Already in list!
+Pitt score is now 66!
+Ross score: 524
+Oklahoma State Already in list!
+Oklahoma State score is now 73!
+Ross score: 524
+Virginia Tech Already in list!
+Virginia Tech score is now 68!
+Nobody picked this school:Virginia Tech
+Ross score: 524
+Ohio State Already in list!
+Ohio State score is now 124!
+Ross score: 524
+TCU Already in list!
+TCU score is now 38!
+Ross score: 524
+Ohio State Already in list!
+Ohio State score is now 142!
+Ross score: 524
+Oklahoma State Already in list!
+Oklahoma State score is now 81!
+Ross score: 524
+Iowa Already in list!
+Iowa score is now 23!
+Ross score: 524
+Oklahoma Already in list!
+Oklahoma score is now 33!
+Ross score: 524
+Oklahoma Already in list!
+Oklahoma score is now 41!
+Ross score: 524
+Nobody picked this school:Miami (OH)
+Ross score: 524
+UCF Already in list!
+UCF score is now 53!
+Ross score: 524
+USC Already in list!
+USC score is now 93!
+Ross score: 532
+Virginia Tech Already in list!
+Virginia Tech score is now 76!
+Nobody picked this school:Virginia Tech
+Ross score: 532
+LSU Already in list!
+LSU score is now 93!
+Ross score: 532
+Nobody picked this school:Houston
+Ross score: 532
+Virginia Already in list!
+Virginia score is now 16!
+Nobody picked this school:Virginia
+Ross score: 532
+Nobody picked this school:San Diego State
+Ross score: 532
+Nobody picked this school:Tulane
+Ross score: 532
+Texas Already in list!
+Texas score is now 70!
+Ross score: 532
+Ross score: 532
+Nobody picked this school:Arkansas
+Ross score: 532
+Georgia Already in list!
+Georgia score is now 90!
+Ross score: 532
+Ross score: 532
+Florida Already in list!
+Florida score is now 80!
+Ross score: 532
+Georgia Already in list!
+Georgia score is now 97!
+Ross score: 532
+Notre Dame Already in list!
+Notre Dame score is now 90!
+Ross score: 532
+Washington Already in list!
+Washington score is now 62!
+Ross score: 532
+South Carolina Already in list!
+South Carolina score is now 65!
+Ross score: 532
+Nobody picked this school:Central Arkansas
+Ross score: 532
+Auburn Already in list!
+Auburn score is now 35!
+Ross score: 532
+Auburn Already in list!
+Auburn score is now 42!
+Ross score: 532
+Nobody picked this school:Buffalo
+Ross score: 532
+San Diego State Already in list!
+San Diego State score is now 24!
+Nobody picked this school:San Diego State
+Ross score: 532
+Clemson Already in list!
+Clemson score is now 97!
+Ross score: 532
+Northwestern Already in list!
+Northwestern score is now 62!
+Ross score: 532
+Oklahoma Already in list!
+Oklahoma score is now 48!
+Ross score: 532
+Nobody picked this school:UAB
+Ross score: 532
+Nobody picked this school:UCLA
+Ross score: 532
+Nobody picked this school:SMU
+Ross score: 532
+Stanford Already in list!
+Stanford score is now 37!
+Ross score: 532
+Notre Dame Already in list!
+Notre Dame score is now 107!
+Ross score: 532
+Missouri Already in list!
+Missouri score is now 27!
+Ross score: 532
+Georgia Already in list!
+Georgia score is now 113!
+Ross score: 532
+West Virginia Already in list!
+West Virginia score is now 26!
+Ross score: 548
+North Carolina Already in list!
+North Carolina score is now 49!
+Ross score: 554
+Oregon Already in list!
+Oregon score is now 81!
+Ross score: 554
+Pitt Already in list!
+Pitt score is now 72!
+Ross score: 554
+Ross score: 560
+Missouri Already in list!
+Missouri score is now 33!
+Ross score: 560
+Texas Already in list!
+Texas score is now 86!
+Ross score: 560
+BYU Already in list!
+BYU score is now 51!
+Ross score: 560
+UCLA Already in list!
+UCLA score is now 13!
+Nobody picked this school:UCLA
+Ross score: 560
+Nobody picked this school:Bowling Green
+Ross score: 560
+BYU Already in list!
+BYU score is now 57!
+Ross score: 560
+Florida State Already in list!
+Florida State score is now 66!
+Ross score: 566
+Louisville Already in list!
+Louisville score is now 14!
+Ross score: 566
+Cincinnati Already in list!
+Cincinnati score is now 16!
+Ross score: 566
+TCU Already in list!
+TCU score is now 44!
+Ross score: 566
+Penn State Already in list!
+Penn State score is now 96!
+Ross score: 566
+Duke Already in list!
+Duke score is now 34!
+Ross score: 582
+Nobody picked this school:East Carolina
+Ross score: 582
+Iowa Already in list!
+Iowa score is now 29!
+Ross score: 582
+Ole Miss Already in list!
+Ole Miss score is now 26!
+Ross score: 582
+Georgia Already in list!
+Georgia score is now 119!
+Ross score: 582
+Florida State Already in list!
+Florida State score is now 82!
+Ross score: 598
+Buffalo Already in list!
+Buffalo score is now 23!
+Nobody picked this school:Buffalo
+Ross score: 598
+Texas A&M Already in list!
+Texas A&M score is now 46!
+Ross score: 598
+Ross score: 598
+Michigan State Already in list!
+Michigan State score is now 13!
+Ross score: 598
+Northern Iowa Already in list!
+Northern Iowa score is now 26!
+Nobody picked this school:Northern Iowa
+Ross score: 598
+Nobody picked this school:Boise State
+Ross score: 598
+Nobody picked this school:California
+Ross score: 598
+Texas A&M Already in list!
+Texas A&M score is now 62!
+Ross score: 598
+Tulane Already in list!
+Tulane score is now 23!
+Nobody picked this school:Tulane
+Ross score: 598
+LSU Already in list!
+LSU score is now 99!
+Ross score: 598
+Kentucky Already in list!
+Kentucky score is now 36!
+Ross score: 598
+Boston College Already in list!
+Boston College score is now 16!
+Nobody picked this school:Boston College
+Ross score: 598
+Nobody picked this school:Georgia Tech
+Ross score: 598
+Nobody picked this school:Marshall
+Ross score: 598
+Missouri Already in list!
+Missouri score is now 39!
+Ross score: 598
+South Carolina Already in list!
+South Carolina score is now 81!
+Ross score: 598
+Memphis Already in list!
+Memphis score is now 32!
+Ross score: 598
+Memphis Already in list!
+Memphis score is now 38!
+Ross score: 598
+Duke Already in list!
+Duke score is now 50!
+Ross score: 614
+Stanford Already in list!
+Stanford score is now 43!
+Ross score: 614
+Houston Already in list!
+Houston score is now 14!
+Nobody picked this school:Houston
+Ross score: 614
+NC State Already in list!
+NC State score is now 25!
+Ross score: 614
+Nobody picked this school:Kansas
+Ross score: 614
+Cincinnati Already in list!
+Cincinnati score is now 31!
+Ross score: 614
+Nobody picked this school:Grambling State
+Ross score: 614
+UAB Already in list!
+UAB score is now 22!
+Nobody picked this school:UAB
+Ross score: 614
+Nobody picked this school:Florida A&M
+Ross score: 614
+Michigan Already in list!
+Michigan score is now 105!
+Ross score: 614
+Ross score: 629
+Georgia Already in list!
+Georgia score is now 124!
+Ross score: 629
+SMU Already in list!
+SMU score is now 22!
+Nobody picked this school:SMU
+Ross score: 629
+Ross score: 629
+Oregon Already in list!
+Oregon score is now 96!
+Ross score: 629
+Texas A&M Already in list!
+Texas A&M score is now 67!
+Ross score: 629
+Mississippi State Already in list!
+Mississippi State score is now 20!
+Ross score: 629
+Illinois Already in list!
+Illinois score is now 11!
+Ross score: 634
+Oregon Already in list!
+Oregon score is now 111!
+Ross score: 634
+Michigan Already in list!
+Michigan score is now 120!
+Ross score: 634
+BYU Already in list!
+BYU score is now 62!
+Ross score: 634
+Wisconsin Already in list!
+Wisconsin score is now 21!
+Ross score: 634
+Michigan Already in list!
+Michigan score is now 125!
+Ross score: 634
+Buffalo Already in list!
+Buffalo score is now 38!
+Nobody picked this school:Buffalo
+Ross score: 634
+UAB Already in list!
+UAB score is now 27!
+Nobody picked this school:UAB
+Ross score: 634
+Texas A&M Already in list!
+Texas A&M score is now 82!
+Ross score: 634
+Nobody picked this school:Appalachian State
+Ross score: 634
+Nobody picked this school:Arizona
+Ross score: 634
+Houston Already in list!
+Houston score is now 29!
+Nobody picked this school:Houston
+Ross score: 634
+Nobody picked this school:Coastal Carolina
+Ross score: 634
+Boise State Already in list!
+Boise State score is now 11!
+Nobody picked this school:Boise State
+Ross score: 634
+Ohio State Already in list!
+Ohio State score is now 157!
+Ross score: 634
+UCF Already in list!
+UCF score is now 68!
+Ross score: 634
+Louisville Already in list!
+Louisville score is now 19!
+Ross score: 634
+Ross score: 634
+Creating Leagify scores csv...
+Creating School result csv...
+Behold, the draft!

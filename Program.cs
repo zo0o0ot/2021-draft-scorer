@@ -10,6 +10,7 @@ namespace _2021_draft_scorer
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             var webGet = new HtmlWeb();
@@ -319,6 +320,8 @@ namespace _2021_draft_scorer
         }
         private static void ScorePicks(List<DraftPick> list1, List<DraftPick> list2, List<DraftPick> list3, List<DraftPick> list4, List<DraftPick> list5, List<DraftPick> list6)
         {
+            List<SchoolResult> schoolResults = new List<SchoolResult>();
+
             Dictionary<string, int> scores = new Dictionary<string, int>()
             {
                 {"Ross",0},
@@ -403,6 +406,7 @@ namespace _2021_draft_scorer
                 {
                     if (true) //change this from dp.actualPick to true to get mock draft picks.
                     {
+                        AddSchoolScore(schoolResults, dp.school, dp.leagifyPoints);
                         try
                         {
                             // If your team matches the pick, you're a lucky dude.
@@ -445,17 +449,45 @@ namespace _2021_draft_scorer
             //results.Add(scoreWithPropBets);
 
 
-            var csvFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
+            var csvLeagifyFileName = $"draft{Path.DirectorySeparatorChar}leagifyResults.csv";
 
-            Console.WriteLine("Creating csv...");
+            Console.WriteLine("Creating Leagify scores csv...");
 
             //Write projects to csv with date.
-            using (var writer = new StreamWriter(csvFileName))
+            using (var writer = new StreamWriter(csvLeagifyFileName))
             using (var csv = new CsvWriter(writer))
             {
                 csv.Configuration.RegisterClassMap<ScoreCardCsvMap>();
                 csv.WriteRecords(results);
             }
+
+            var csvSchoolFileName = $"draft{Path.DirectorySeparatorChar}schoolResults.csv";
+
+            Console.WriteLine("Creating School result csv...");
+
+            //Write projects to csv with date.
+            using (var writer = new StreamWriter(csvSchoolFileName))
+            using (var csv = new CsvWriter(writer))
+            {
+                csv.Configuration.RegisterClassMap<SchoolResultCsvMap>();
+                csv.WriteRecords(schoolResults);
+            }
+        }
+        private static void AddSchoolScore(List<SchoolResult> schools,string currentSchool, int points)
+        {
+            SchoolResult selectedSchool = schools.FirstOrDefault(school => school.schoolName == currentSchool);
+            if (selectedSchool != null)
+            {
+                Console.WriteLine(currentSchool + " Already in list!");
+                selectedSchool.score += points;
+                Console.WriteLine(currentSchool + " score is now " + selectedSchool.score + "!");
+                
+            }
+            else
+            {
+                schools.Add(new SchoolResult(currentSchool, points));
+            }
+            
         }
     }
 }
