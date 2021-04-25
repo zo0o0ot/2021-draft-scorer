@@ -109,19 +109,20 @@ namespace _2021_draft_scorer
             {
                 return true;
             }
-            else if (pick == "59" || pick == "60" || pick == "69" || pick == "74" 
-                    || pick == "75" || pick == "88" || pick == "98" || pick == "100" 
-                    || pick == "105" || pick == "109" || pick == "121" || pick == "126" 
-                    || pick == "130" || pick == "134" || pick == "139" || pick == "141"
-                    || pick == "146" || pick == "148" || pick == "153" || pick == "159" 
-                    || pick == "164" || pick == "169" || pick == "182" || pick == "196" 
-                    || pick == "203" || pick == "207" || pick == "210" || pick == "212"
-                    || pick == "213" || pick == "219" || pick == "233" || pick == "240" 
-                    || pick == "245" || pick == "248" || pick == "250" || pick == "251")
-            {
-                // bad data on site. Not listed as part of a trade even though it is.
-                return true;
-            }
+            // Assume correct data for now. I ran into issues last year, as shown below.
+            // else if (pick == "59" || pick == "60" || pick == "69" || pick == "74" 
+            //         || pick == "75" || pick == "88" || pick == "98" || pick == "100" 
+            //         || pick == "105" || pick == "109" || pick == "121" || pick == "126" 
+            //         || pick == "130" || pick == "134" || pick == "139" || pick == "141"
+            //         || pick == "146" || pick == "148" || pick == "153" || pick == "159" 
+            //         || pick == "164" || pick == "169" || pick == "182" || pick == "196" 
+            //         || pick == "203" || pick == "207" || pick == "210" || pick == "212"
+            //         || pick == "213" || pick == "219" || pick == "233" || pick == "240" 
+            //         || pick == "245" || pick == "248" || pick == "250" || pick == "251")
+            // {
+            //     // bad data on site. Not listed as part of a trade even though it is.
+            //     return true;
+            // }
             else
             {
                 return false;

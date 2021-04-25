@@ -358,22 +358,15 @@ namespace _2021_draft_scorer
             {
                 foreach (DraftPick dp in list)
                 {
-                    if (dp.actualPick) //change this to true to get mock draft picks.
+                    if (dp.actualPick) //change this from dp.actualPick to true to get mock draft picks.
                     {
                         try
                         {
-                            if (dp.playerName == "Jalen Hurts") // this can probably be removed.
-                            {
-                                //Jalen Hurts counts for Oklahoma, not Alabama.
-                                int originalScore = scores["Ross"];
-                                scores["Ross"] = originalScore + dp.leagifyPoints;
-                            }
-                            else
-                            {
-                                string luckyDude = fantasyTeams[dp.school];
-                                int originalScore = scores[luckyDude];
-                                scores[luckyDude] = originalScore + dp.leagifyPoints;
-                            }
+                            // If your team matches the pick, you're a lucky dude.
+                            string luckyDude = fantasyTeams[dp.school];
+                            int originalScore = scores[luckyDude];
+                            scores[luckyDude] = originalScore + dp.leagifyPoints;
+                            
                         }
                         catch
                         {
