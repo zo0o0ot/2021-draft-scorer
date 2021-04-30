@@ -30,7 +30,7 @@ namespace _2021_draft_scorer
             List<DraftPick> list1 = getDraft(document1);
             List<DraftPick> list2 = getDraft(document2);
             List<DraftPick> list3 = getDraft(document3);
-            List<DraftPick> list4 = getDraftThirdRound(document4);
+            List<DraftPick> list4 = getDraft(document4);
             List<DraftPick> list5 = getDraft(document5);
             List<DraftPick> list6 = getDraft(document6);
 
