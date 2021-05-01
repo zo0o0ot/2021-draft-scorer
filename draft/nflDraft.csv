@@ -124,7 +124,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 123,4,Zech McPhearson,Texas Tech,CB,Philadelphia (Trade),-97,18,Texas,True,True
 124,4,John Bates,Boise State,TE,Washington,-109,8,Idaho,False,True
 125,4,Camryn Bynum,California,CB,Minnesota (Trade),-56,18,California,True,True
-126,4,Chuba Hubbard,Oklahoma State,RB,Carolina,+22,8,Oklahoma,False,True
+126,4,Chuba Hubbard,Oklahoma State,RB,Carolina,+22,18,Oklahoma,True,True
 127,4,Kylen Granson,SMU,TE,Indianapolis,-96,8,Texas,False,True
 128,4,Dan Moore Jr.,Texas A&M,OT,Pittsburgh,-87,8,Texas,False,True
 129,4,Jaelon Darden,North Texas,WRS,Tampa Bay,+4,8,Texas,False,True
@@ -152,7 +152,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 150,5,Shaka Toney,Penn State,EDGE,Philadelphia,+20,7,Pennsylvania,False,False
 151,5,Trill Williams,Syracuse,CB,Chicago (Trade),+20,17,New York,True,False
 152,5,Darius Stills,West Virginia,DL5T,Denver,+37,7,West Virginia,False,False
-153,5,Paris Ford,Pitt,S,Detroit,+40,7,Pennsylvania,False,False
+153,5,Paris Ford,Pitt,S,Detroit,+40,17,Pennsylvania,True,False
 154,5,Drake Jackson,Kentucky,OC,NY Jets (Trade),+34,17,Kentucky,True,False
 155,5,Josh Imatorbhebhe,Illinois,WR,San Francisco,-17,7,Illinois,False,False
 156,5,Ar'Darius Washington,TCU,S,Dallas (Trade),+38,17,Texas,True,False
@@ -165,7 +165,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 163,5,Shane Buechele,SMU,QB,Washington,-22,7,Texas,False,False
 164,5,Jonathan Marshall,Arkansas,DL1T,Denver (Trade),+31,17,Arkansas,True,False
 165,5,Ihmir Smith-Marsette,Iowa,WR,Indianapolis,+44,7,Iowa,False,False
-166,5,Trey Hill,Georgia,OC,Carolina,+39,7,Georgia,False,False
+166,5,Trey Hill,Georgia,OC,Carolina,+39,17,Georgia,True,False
 167,5,Olaijah Griffin,USC,CB,Las Vegas (Trade),+32,17,California,True,False
 168,5,Tommy Doyle,Miami (OH),OT,Minnesota (Trade),+12,17,Ohio,True,False
 169,5,Caden Sterns,Texas,S,Cleveland (Trade),+25,17,Texas,True,False
@@ -207,7 +207,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 206,6,Larry Borom,Missouri,OT,Indianapolis,+17,6,Missouri,False,False
 207,6,Kylin Hill,Mississippi State,RBC,Kansas City (Trade),+43,16,Mississippi,True,False
 208,6,Dazz Newsome,North Carolina,WR,Chicago (Trade),+38,16,North Carolina,True,False
-209,6,Victor Dimukeje,Duke,EDGE,LA Rams,+18,6,North Carolina,False,False
+209,6,Victor Dimukeje,Duke,EDGE,LA Rams,+18,16,North Carolina,True,False
 210,6,Jimmy Morrissey,Pitt,OC,Baltimore,+4,6,Pennsylvania,False,False
 211,6,Naquan Jones,Michigan State,DL1T,Cleveland,-13,6,Michigan,False,False
 212,6,Jonathon Cooper,Ohio State,EDGE,Houston (Trade),+12,16,Ohio,True,False
