@@ -138,7 +138,6 @@ namespace _2021_draft_scorer
                     || pick == "258" 
                     || pick == "85" || pick == "92" || pick == "135" // Packers-Titans Trade
                     || pick == "88" || pick == "117" || pick == "121"// 49ers-Rams Trade
-
                     )
             {
                 // bad data on site. Not listed as part of a trade even though it is.
