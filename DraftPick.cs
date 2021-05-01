@@ -136,8 +136,8 @@ namespace _2021_draft_scorer
                     || pick == "244" || pick == "245" || pick == "247" || pick == "249" 
                     || pick == "251" || pick == "253" || pick == "254" || pick == "257"
                     || pick == "258" 
-                    || pick == "85" || pick == "92" || pick == "135" //Packers-Titans Trade
-                    || pick == "88"//49ers made a trade for 88, details incoming.
+                    || pick == "85" || pick == "92" || pick == "135" // Packers-Titans Trade
+                    || pick == "88" || pick == "117" || pick == "121"// 49ers-Rams Trade
 
                     )
             {
