@@ -193,68 +193,68 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,State,PickTraded,Actual
 192,6,Quinton Bohanna,Kentucky,DL1T,Dallas (Trade),-70,16,Kentucky,True,True
 193,6,Deonte Brown,Alabama,OG,Carolina,+85,6,Alabama,False,True
 194,6,Elijah Mitchell,Louisiana-Lafayette,RB,San Francisco,+6,6,Louisiana,False,True
-195,6,Trey Smith,Tennessee,OG,Houston (Trade),+152,16,Tennessee,True,False
-196,6,Marvin Wilson,Florida State,DL1T,NY Giants,+128,6,Florida,False,False
-197,6,Seth Williams,Auburn,WR,New England,+131,6,Alabama,False,False
-198,6,Jaylen Twyman,Pitt,DL3T,LA Chargers,+100,6,Pennsylvania,False,False
-199,6,Darius Stills,West Virginia,DL5T,Minnesota,+84,6,West Virginia,False,False
-200,6,Dylan Moses,Alabama,OLB,NY Jets,+122,16,Alabama,True,False
-201,6,Drake Jackson,Kentucky,OC,NY Giants (Trade),+81,16,Kentucky,True,False
+195,6,Roy Lopez,Arizona,DL1T,Houston (Trade),-79,16,Arizona,True,True
+196,6,Gary Brightwell,Arizona,RB,NY Giants,-88,6,Arizona,False,True
+197,6,William Sherman,Colorado,OT,New England,-94,6,Colorado,False,True
+198,6,Larry Rountree III,Missouri,RBC,LA Chargers,-59,6,Missouri,False,True
+199,6,Jaylen Twyman,Pitt,DL3T,Minnesota,+143,6,Pennsylvania,False,True
+200,6,Trey Smith,Tennessee,OG,NY Jets,+157,16,Tennessee,True,False
+201,6,Marvin Wilson,Florida State,DL1T,NY Giants (Trade),+133,16,Florida,True,False
 202,6,Paris Ford,Pitt,S,Cincinnati (Trade),+89,16,Pennsylvania,True,False
 203,6,Quincy Roche,Miami (FL),EDGE,Houston (Trade),+105,16,Florida,True,False
 204,6,Jamie Newman,Georgia,QB,Carolina (Trade),+92,16,Georgia,True,False
 205,6,Sadarius Hutcherson,South Carolina,OG,Tennessee,+40,6,South Carolina,False,False
-206,6,Damonte Coxie,Memphis,WR,Indianapolis,+92,6,Tennessee,False,False
-207,6,Tony Poljan,Virginia,TE,NY Jets (Trade),+54,16,Virginia,True,False
+206,6,Seth Williams,Auburn,WR,Indianapolis,+140,6,Alabama,False,False
+207,6,Dylan Moses,Alabama,OLB,NY Jets (Trade),+129,16,Alabama,True,False
 208,6,Israel Mukuamu,South Carolina,CB,Chicago (Trade),+92,16,South Carolina,True,False
-209,6,Sage Surratt,Wake Forest,WR,Jacksonville,+90,16,North Carolina,True,False
-210,6,Jack Anderson,Texas Tech,OG,Arizona,+51,16,Texas,True,False
+209,6,Damonte Coxie,Memphis,WR,Jacksonville,+95,16,Tennessee,True,False
+210,6,Tony Poljan,Virginia,TE,Arizona,+57,16,Virginia,True,False
 211,6,Shaka Toney,Penn State,EDGE,Cleveland,+81,6,Pennsylvania,False,False
-212,6,Trill Williams,Syracuse,CB,Buffalo (Trade),+81,16,New York,True,False
-213,6,Jonathan Marshall,Arkansas,DL1T,Buffalo,+80,6,Arkansas,False,False
+212,6,Drake Jackson,Kentucky,OC,Buffalo (Trade),+92,16,Kentucky,True,False
+213,6,Trill Williams,Syracuse,CB,Buffalo,+82,6,New York,False,False
 214,6,Ar'Darius Washington,TCU,S,Green Bay,+96,6,Texas,False,False
 215,6,Khyiris Tonga,BYU,DT,Tennessee (Trade),+16,16,Utah,True,False
 216,6,Olaijah Griffin,USC,CB,Pittsburgh (Trade),+81,16,California,True,False
 217,6,Hamilcar Rashed,Oregon State,EDGE,Seattle (Comp),+81,16,Oregon,True,False
-218,6,Marlon Williams,UCF,WR,New Orleans (Comp),+95,6,Florida,False,False
-219,6,Malik Herring,Georgia,DL5T,Denver (Trade),+52,16,Georgia,True,False
+218,6,Sage Surratt,Wake Forest,WR,New Orleans (Comp),+99,6,North Carolina,False,False
+219,6,Darius Stills,West Virginia,DL5T,Denver (Trade),+104,16,West Virginia,True,False
 220,6,Jalen Camp,Georgia Tech,WR,Green Bay (Comp),-72,6,Georgia,False,False
-221,6,Charles Snowden,Virginia,OLB,Chicago (Comp),+92,6,Virginia,False,False
+221,6,Jack Anderson,Texas Tech,OG,Chicago (Comp),+62,6,Texas,False,False
 222,6,Tariq Thompson,San Diego State,S,Carolina (Comp),+83,6,California,False,False
-223,6,Matt Bushman,BYU,TE,Arizona (Trade),+20,16,Utah,True,False
-224,6,JaCoby Stevens,LSU,S,Philadelphia (Comp),+75,6,Louisiana,False,False
-225,6,Paddy Fisher,Northwestern,ILB,Philadelphia (Comp),+54,6,Illinois,False,False
+223,6,Jaret Patterson,Buffalo,RB,Arizona (Trade),+47,16,New York,True,False
+224,6,Charles Snowden,Virginia,OLB,Philadelphia (Comp),+95,6,Virginia,False,False
+225,6,Jonathan Marshall,Arkansas,DL1T,Philadelphia (Comp),+92,6,Arkansas,False,False
 226,6,Shakur Brown,Michigan State,CB,Kansas City (Trade),+89,16,Michigan,True,False
-227,6,Donovan Stiner,Florida,S,Dallas (Comp),+52,6,Florida,False,False
-228,6,Tommy Kraemer,Notre Dame,OG,Chicago (Comp),+50,6,Indiana,False,False
+227,6,JaCoby Stevens,LSU,S,Dallas (Comp),+78,6,Louisiana,False,False
+228,6,Marlon Williams,UCF,WR,Chicago (Comp),+105,6,Florida,False,False
 229,7,Adrian Ealy,Oklahoma,OT,New Orleans (Trade),+66,15,Oklahoma,True,False
 230,7,Damon Hazelton,Missouri,WR,Las Vegas (Trade),+68,15,Missouri,True,False
 231,7,Khalil Herbert,Virginia Tech,RBC,Miami (Trade),+120,15,Virginia,True,False
-232,7,Wyatt Hubert,Kansas State,EDGE,Carolina (Trade),+55,15,Kansas,True,False
-233,7,Alaric Jackson,Iowa,OT,Houston (Trade),+64,15,Iowa,True,False
-234,7,Amen Ogbongbemiga,Oklahoma State,OLB,Philadelphia,+50,5,Oklahoma,False,False
+232,7,Malik Herring,Georgia,DL5T,Carolina (Trade),+65,15,Georgia,True,False
+233,7,Tommy Kraemer,Notre Dame,OG,Houston (Trade),+55,15,Indiana,True,False
+234,7,Paddy Fisher,Northwestern,ILB,Philadelphia,+63,5,Illinois,False,False
 235,7,Rodarius Williams,Oklahoma State,CB,Cincinnati (Trade),+97,15,Oklahoma,True,False
-236,7,Jimmy Morrissey,Pitt,OC,Buffalo (Trade),+30,15,Pennsylvania,True,False
-237,7,Shane Buechele,SMU,QB,Denver,+52,5,Texas,False,False
+236,7,Donovan Stiner,Florida,S,Buffalo (Trade),+61,15,Florida,True,False
+237,7,Alaric Jackson,Iowa,OT,Denver,+68,5,Iowa,False,False
 238,7,Damar Hamlin,Pitt,S,Dallas,+48,5,Pennsylvania,False,False
-239,7,Stone Forsythe,Florida,OT,Denver (Trade),+38,15,Florida,True,False
+239,7,Shane Buechele,SMU,QB,Denver (Trade),+54,15,Texas,True,False
 240,7,Sam Ehlinger,Texas,QB,Philadelphia (Trade),+48,15,Texas,True,False
-241,7,James Wiggins,Cincinnati,S,LA Chargers,+6,5,Ohio,False,False
-242,7,Xavier Kelly,Arkansas,DL3T,New England,+26,5,Arkansas,False,False
-243,7,Jaret Patterson,Buffalo,RB,Arizona,+67,5,New York,False,False
-244,7,Victor Dimukeje,Duke,EDGE,Washington (Trade),+53,15,North Carolina,True,False
-245,7,Jonathon Cooper,Ohio State,EDGE,Pittsburgh (Trade),+45,15,Ohio,True,False
+241,7,Xavier Kelly,Arkansas,DL3T,LA Chargers,+25,5,Arkansas,False,False
+242,7,Dazz Newsome,North Carolina,WR,New England,+72,5,North Carolina,False,False
+243,7,David Moore,Grambling State,OG,Arizona,-34,5,Louisiana,False,False
+244,7,Wyatt Hubert,Kansas State,EDGE,Washington (Trade),+67,15,Kansas,True,False
+245,7,Victor Dimukeje,Duke,EDGE,Pittsburgh (Trade),+54,15,North Carolina,True,False
 246,7,Cade Johnson,South Dakota State,WRS,Washington,+19,5,South Dakota,False,False
 247,7,Mustafa Johnson,Colorado,DL5T,Arizona (Trade),+52,15,Colorado,True,False
-248,7,Thomas Graham Jr.,Oregon,CB,Indianapolis,+74,5,Oregon,False,False
-249,7,Max Richardson,Boston College,OLB,Jacksonville (Trade),+19,15,Massachusetts,True,False
+248,7,Stone Forsythe,Florida,OT,Indianapolis,+47,5,Florida,False,False
+249,7,Amen Ogbongbemiga,Oklahoma State,OLB,Jacksonville (Trade),+65,15,Oklahoma,True,False
 250,7,Austin Watkins,UAB,WR,Seattle,+10,5,Alabama,False,False
 251,7,Carlo Kemp,Michigan,DL5T,Tampa Bay (Trade),+28,15,Michigan,True,False
 252,7,Landon Young,Kentucky,OT,LA Rams,+20,5,Kentucky,False,False
 253,7,Naquan Jones,Michigan State,DL1T,Denver (Trade),+29,15,Michigan,True,False
-254,7,Dazz Newsome,North Carolina,WR,Pittsburgh (Trade),+84,15,North Carolina,True,False
-255,7,Quintin Morris,Bowling Green,TE,New Orleans,+47,5,Ohio,False,False
+254,7,Josh Imatorbhebhe,Illinois,WR,Pittsburgh (Trade),+82,15,Illinois,True,False
+255,7,Matt Bushman,BYU,TE,New Orleans,+52,5,Utah,False,False
 256,7,Justin Hilliard,Ohio State,ILB,Green Bay,-14,5,Ohio,False,False
 257,7,Jordon Scott,Oregon,DL1T,Cleveland (Trade),-28,15,Oregon,True,False
-258,7,Michal Menet,Penn State,OC,Miami (Trade),+17,15,Pennsylvania,True,False
+258,7,Jimmy Morrissey,Pitt,OC,Miami (Trade),+52,15,Pennsylvania,True,False
 259,7,Brenden Knox,Marshall,RB,Tampa Bay,+16,5,West Virginia,False,False
