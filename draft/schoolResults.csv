@@ -1,5 +1,5 @@
 School,Score
-Clemson,105
+Clemson,125
 BYU,55
 North Dakota State,60
 Florida,90
@@ -7,7 +7,7 @@ LSU,60
 Alabama,260
 Oregon,65
 South Carolina,35
-Ohio State,70
+Ohio State,110
 Penn State,90
 Northwestern,55
 USC,40
@@ -24,7 +24,7 @@ Ole Miss,20
 North Carolina,50
 Oklahoma State,30
 UCF,50
-Notre Dame,85
+Notre Dame,105
 TCU,30
 Stanford,60
 Florida State,20
@@ -44,3 +44,5 @@ UCLA,10
 Tennessee,10
 Buffalo,20
 Boston College,10
+Iowa,20
+Illinois,10
