@@ -27,7 +27,7 @@ namespace _2021_draft_scorer
             //html body div#outer div#wrapper2 div#content table
             ///html/body/div[3]/div[3]/div[1]/table[1]
 
-            List<DraftPick> list1 = getDraft(document1);
+            List<DraftPick> list1 = getDraftWithExtraDiv(document1);
             List<DraftPick> list2 = getDraft(document2);
             List<DraftPick> list3 = getDraft(document3);
             List<DraftPick> list4 = getDraft(document4);
@@ -104,7 +104,7 @@ namespace _2021_draft_scorer
             return mdpList;
         }
 
-        public static List<DraftPick> getDraftThirdRound(HtmlAgilityPack.HtmlDocument doc)
+        public static List<DraftPick> getDraftWithExtraDiv(HtmlAgilityPack.HtmlDocument doc)
         {
             List<DraftPick> mdpList = new List<DraftPick>();
             // This is still messy from debugging the different values.  It should be optimized.
