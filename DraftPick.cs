@@ -135,7 +135,7 @@ namespace _2021_draft_scorer
                     || pick == "235" || pick == "236" || pick == "239" || pick == "240"
                     || pick == "244" || pick == "245" || pick == "247" || pick == "249" 
                     || pick == "251" || pick == "253" || pick == "254" || pick == "257"
-                    || pick == "258" 
+                    || pick == "258" || pick == "85" || pick == "92" || pick == "135"
                     )
             {
                 // bad data on site. Not listed as part of a trade even though it is.
