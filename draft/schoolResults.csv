@@ -2,17 +2,17 @@ School,Score
 Clemson,125
 BYU,55
 North Dakota State,60
-Florida,90
+Florida,115
 LSU,86
 Alabama,260
 Oregon,65
 South Carolina,45
-Ohio State,130
+Ohio State,145
 Penn State,90
 Northwestern,55
 USC,66
 Tulsa,30
-Miami (FL),55
+Miami (FL),62
 Kentucky,50
 Michigan,65
 Virginia Tech,70
@@ -20,24 +20,24 @@ Minnesota,45
 Houston,25
 Georgia,120
 Washington,55
-Ole Miss,20
+Ole Miss,28
 North Carolina,58
-Oklahoma State,48
-UCF,50
-Notre Dame,115
+Oklahoma State,56
+UCF,58
+Notre Dame,123
 TCU,30
 Stanford,78
-Florida State,20
+Florida State,54
 Purdue,33
-Texas,25
+Texas,32
 Vanderbilt,15
 Western Michigan,15
 Louisville,33
-Missouri,25
+Missouri,43
 Wake Forest,15
-Oklahoma,43
+Oklahoma,61
 Syracuse,30
-Texas A&M,46
+Texas A&M,54
 NC State,10
 Louisiana Tech,20
 UCLA,10
@@ -46,8 +46,8 @@ Buffalo,20
 Boston College,10
 Iowa,20
 Illinois,10
-Pitt,20
-Auburn,20
+Pitt,38
+Auburn,27
 Northern Iowa,18
 UW-Whitewater,20
 Oregon State,10
@@ -59,7 +59,8 @@ Duke,8
 Iowa State,8
 UAB,18
 Texas Tech,18
-Boise State,8
 California,18
-North Texas,8
+North Texas,18
 Central Arkansas,18
+Marshall,18
+East Carolina,8

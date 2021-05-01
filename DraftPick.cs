@@ -141,6 +141,8 @@ namespace _2021_draft_scorer
                     || pick == "109" || pick == "126" || pick == "166" // Titans-Panthers Trade at 109, also inlcudes 232 (previously traded)
                     || pick == "113" || pick == "153"  //Lions-Browns trade at 113, includes 257 (previously traded) and 2022 4th rounder
                     || pick == "209" || pick == "126" || pick == "166" //Jaguars-Rams trade at 121, includes 121, 130, 170, and 249 (previously traded)
+                    || pick == "129" || pick == "137" || pick == "217" //Bucs-Sehawks trade at 129
+                    || pick == "200" //Raiders-Jets trade at 143, includes 143 and 162 (previously traded)
                     )
             {
                 // bad data on site. Not listed as part of a trade even though it is.
