@@ -109,20 +109,38 @@ namespace _2021_draft_scorer
             {
                 return true;
             }
-            // Assume correct data for now. I ran into issues last year, as shown below.
-            // else if (pick == "59" || pick == "60" || pick == "69" || pick == "74" 
-            //         || pick == "75" || pick == "88" || pick == "98" || pick == "100" 
-            //         || pick == "105" || pick == "109" || pick == "121" || pick == "126" 
-            //         || pick == "130" || pick == "134" || pick == "139" || pick == "141"
-            //         || pick == "146" || pick == "148" || pick == "153" || pick == "159" 
-            //         || pick == "164" || pick == "169" || pick == "182" || pick == "196" 
-            //         || pick == "203" || pick == "207" || pick == "210" || pick == "212"
-            //         || pick == "213" || pick == "219" || pick == "233" || pick == "240" 
-            //         || pick == "245" || pick == "248" || pick == "250" || pick == "251")
-            // {
-            //     // bad data on site. Not listed as part of a trade even though it is.
-            //     return true;
-            // }
+            //This is frustrating, I'm just entering all trades here.
+            else if (pick == "3" || pick == "6" || pick == "10" || pick == "11" 
+                    || pick == "12" || pick == "14" || pick == "20" || pick == "23" 
+                    || pick == "25" || pick == "31" || pick == "35" || pick == "36" 
+                    || pick == "38" || pick == "39" || pick == "40" || pick == "42"
+                    || pick == "43" || pick == "45" || pick == "46" || pick == "48" 
+                    || pick == "50" || pick == "52" || pick == "58" || pick == "59" 
+                    || pick == "66" || pick == "70" || pick == "71" || pick == "73"
+                    || pick == "74" || pick == "76" || pick == "79" || pick == "83" 
+                    || pick == "84" || pick == "86" || pick == "89" || pick == "90"
+                    || pick == "91" || pick == "94" || pick == "98" || pick == "101" 
+                    || pick == "105" || pick == "110" || pick == "112" || pick == "114"
+                    || pick == "120" || pick == "121" || pick == "122" || pick == "123" 
+                    || pick == "125" || pick == "130" || pick == "134" || pick == "136"
+                    || pick == "138" || pick == "143" || pick == "151" || pick == "154"
+                    || pick == "156" || pick == "158" || pick == "161" || pick == "162"
+                    || pick == "164" || pick == "167" || pick == "168" || pick == "169"
+                    || pick == "170" || pick == "172" || pick == "185" || pick == "188"
+                    || pick == "191" || pick == "192" || pick == "195" || pick == "201" 
+                    || pick == "202" || pick == "203" || pick == "204" || pick == "207"
+                    || pick == "208" || pick == "212" || pick == "215" || pick == "216"
+                    || pick == "219" || pick == "223" || pick == "226" || pick == "229" 
+                    || pick == "230" || pick == "231" || pick == "232" || pick == "233"
+                    || pick == "235" || pick == "236" || pick == "239" || pick == "240"
+                    || pick == "244" || pick == "245" || pick == "247" || pick == "249" 
+                    || pick == "251" || pick == "253" || pick == "254" || pick == "257"
+                    || pick == "258" 
+                    )
+            {
+                // bad data on site. Not listed as part of a trade even though it is.
+                return true;
+            }
             else
             {
                 return false;
